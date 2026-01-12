@@ -1,6 +1,5 @@
 # CodeHub: Combined Programming Language Folder
 
-![image1](image1)
 
 ## Overview
 
